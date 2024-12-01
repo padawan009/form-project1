@@ -10,8 +10,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./—Pngtree—blue\ atmospheric\ background_913348.jpg);
-    background-size: 300vh;
+    background-image: url(./—Pngtree—geometric\ shape\ tropical\ leaf\ theme_989660.png);
+    background-size: 200vh;
 }
 
 fieldset {
@@ -60,7 +60,7 @@ form {
 .button-class {
     color: white;
     line-height: 1.5rem;
-    background-color: #2148C0;
+    background-color: black;
     padding: 0.375rem 0.75rem;
     border-radius: 0.375rem;
     cursor: pointer;
