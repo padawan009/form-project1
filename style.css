@@ -34,6 +34,19 @@ input[type="password"] {
 input[type="email"] {
     margin-top: -15px;
 }
+
+.mt-2 {
+    position: relative;
+}
+
+img {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    opacity: 0.4;
+    transform: scale(-0.7, 0.7);
+}
+
 p {
     padding-top: 45px;
     text-align: center;
